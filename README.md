@@ -46,7 +46,4 @@ This is a Telegram bot that can send mass messages to users and groups. It provi
 To start the bot, run the following command:
 
 ```bash
-python tgbot_21.py
-
-
-By Chumbacash
+python tgbot21.py
