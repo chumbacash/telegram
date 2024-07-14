@@ -19,7 +19,7 @@ This is a Telegram bot that can send mass messages to users and groups. It provi
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/telegram-bot.git
+    git clone https://github.com/chumbacash/telegram.git
     cd telegram-bot
     ```
 
